@@ -1,26 +1,51 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Shakir Hussain</h1>
-<h3 align="center">A passionate frontend developer from India skilling toward full stack developer</h3>
-<img align="right" alt="coding" width="650" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on **30Daysofdevelopment challenge**
+# 👋 Hello, I'm [Shakir Hussain]
 
-- 🌱 I’m currently learning **Front-end Development**
+A passionate **Full-Stack Developer** with a focus on the **MERN Stack**, **System Design**, **Blockchain DApps**, and **GenAI developer** technologies.  I love building real-world projects that blend traditional web apps with next-gen decentralized and intelligent systems.
 
-- 💬 Ask me about **javascript,html5,css,react.js,tailwind-css etc**
+---
 
-- 📫 How to reach me **sh0552802@gmail.com**
+## 🚀 Tech Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shakir-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakir-" height="30" width="40" /></a>
-</p>
+- 🌐 **Frontend:** React.js, Next.js, Redux, TailwindCSS
+- 🛠️ **Backend:** Node.js, Express.js, MongoDB, REST APIs
+- 🏗️ **System Design:** ..........
+- 🔗 **Blockchain:** ........
+- 🤖 **AI/GenAI:** .........
+- 🧰 **Tools & DevOps:** Git, GitHub Actions,...
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
+
+## 🌟 Featured Projects
+
+### 🛒 MERN Stack E-Commerce App
+> A full-stack shopping platform with authentication, admin panel, and Stripe payments.  
+Tech: React, Node, MongoDB, JWT
+
+### 🖼️ NFT Marketplace DApp
+> A decentralized NFT marketplace with IPFS image hosting and Metamask integration.  
+Tech: Solidity, Hardhat, React, Web3.js
+
+---
+
+## 🧠 What I'm Learning Now
+- MERN Stack
+- Agent-based AI apps using AutoGen / LangGraph  
+- Advanced Smart Contracts and ZK Proofs  
+- Serverless Architectures with AWS Lambda
+
+---
+
+## 📫 Let's Connect!
+- Portfolio: [https://shakir-hussai-n.github.io/rawengine.github.io/](#)
+- LinkedIn: [linkedin.com/in/shakir-](#)
+- Twitter: [@shakir_h7](#)
+
+> “Build what you wish existed.”
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakir-hussai-n&show_icons=true&locale=en&layout=compact" alt="shakir-hussai-n" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakir-hussai-n&show_icons=true&locale=en" alt="shakir-hussai-n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakir-hussai-n&" alt="shakir-hussai-n" /></p>
+
